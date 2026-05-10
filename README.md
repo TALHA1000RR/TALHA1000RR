@@ -15,7 +15,7 @@
     </a>
   </p> -->
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=180&section=header&text=Creative%20Code,%20Smart%20Solutions&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Code%20|%20Create%20|%20Innovate&descAlignY=55"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7155C8,100:4B8BD9&height=180&section=header&text=Creative%20Code,%20Smart%20Solutions&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Code%20|%20Create%20|%20Innovate&descAlignY=55"/>
 </div>
 
 ---
@@ -72,7 +72,7 @@
 
 <br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=120&section=footer&text=Keep%20Coding%20|%20Keep%20Building&fontSize=24&fontAlignY=80&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7155C8,100:4B8BD9&height=120&section=footer&text=Keep%20Coding%20|%20Keep%20Building&fontSize=24&fontAlignY=80&fontColor=ffffff"/>
 
 <div align="center">
   <sub>Built with ❤️ by Cheth</sub>
