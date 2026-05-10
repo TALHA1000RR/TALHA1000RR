@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D1FF&background=0D111700&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Cheth;Full+Stack+Developer;Python+Enthusiast;Open+Source+Lover;Always+Learning+%26+Growing)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D1FF&background=0D111700&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Cheth;Senior+Web+Developer;Python+Enthusiast;Open+Source+Lover;Always+Learning+%26+Growing)](https://git.io/typing-svg)
 
   <!-- <p>
     <a href="https://github.com/geek-cheth?tab=followers">
