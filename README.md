@@ -30,7 +30,7 @@
 <b>geek-cheth@developer:~$</b> profile --status
 <br>
 <span style="color: #00D1FF">●</span> <b>Name:</b> Hinata
-<span style="color: #00FFD1">●</span> <b>Location:</b> Changsha, China
+<!-- <span style="color: #00FFD1">●</span> <b>Location:</b> Changsha, China -->
 <span style="color: #00D1FF">●</span> <b>Role:</b> Senior Web Developer
 <span style="color: #00FFD1">●</span> <b>Current_Focus:</b> Advanced React & AI Architectures
 <span style="color: #00D1FF">●</span> <b>Favorite_Stack:</b> MERN + Python
